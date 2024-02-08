@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'JetBrains';
+  src: url('./assets/font/JetBrainsMono.ttf') format('truetype'),
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
